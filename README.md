@@ -30,3 +30,5 @@ In your terminal, run these commands (replace `[PROJECT-ID]` with your actual Pr
 ```bash
 gcloud config set project [PROJECT-ID]
 gcloud services enable run.googleapis.com cloudbuild.googleapis.com artifactregistry.googleapis.com
+
+```
